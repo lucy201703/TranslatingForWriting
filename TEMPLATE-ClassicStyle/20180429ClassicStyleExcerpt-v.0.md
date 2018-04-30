@@ -2,11 +2,8 @@
 
 > You imagine what you desire; you will what you imagine; and at last, you create what you will.
 
-<<<<<<< HEAD:TEMPLATE-ClassicStyle/classic-style-excerpt-translation.md
 > 你想象你所渴望之物；你执意你所想象之物；最后，你创造你所执意之物。
-=======
-> 你想象你所渴望之物；你臆想你所想象之物；最后，你创造你所臆想之物。
->>>>>>> 80eb87459b9fc7aa5491552ef8218e1fee983ae8:TEMPLATE-ClassicStyle/20180429ClassicStyleExcerpt-v.0.md
+
 
 —Bernard Shaw, the serpent speaking to Eve in Back to Methuselah
 
@@ -15,7 +12,7 @@
 
 The thought expressed in this passage has three steps. They are schematically identical. In each, an activity is located and then linked to its source in a different activity. There is a sentence expressing each step. Each of these sentences inherits the schematic structure of the thought, as in “You imagine what you desire.” Paired activities are expressed as paired clauses—“you imagine” and “you desire”—and the conceptual link between paired activities is mirrored in the linguistic link between paired clauses.
 
-<<<<<<< HEAD:TEMPLATE-ClassicStyle/classic-style-excerpt-translation.md
+
 该段落表达的思想有三个步骤，它们的图式结构完全相同。每一步，一项活动被构建，随后连向它的源头活动，后者恰构成一项不同的活动。每一步有对应的一句话表达。每句话继承了思想的图式结构，比如“你想象你所渴望之物”。配对的活动表现为配对的从句——“你想象”和“你渴望”——配对活动的概念关系反映在配对从句的语言关系中。
 
 These three steps are not independent, but are ordered as a temporal sequence in which the product of one step serves as the source of the next. The grammatical structure mirrors this conceptual sequence: three sentences of the same grammatical form occur in linear order; the clause referring to the product in one sentence serves to refer to the source in the next.
@@ -47,9 +44,9 @@ Similarly, in the classic view, the thought exists before the expression, and th
 萧的句子因表达出完整的分析知道何时结束。将它同以下段落比较——一位编辑为他负责编辑的一本有影响力的杂志写的一段话——段落虽然结束但没有完成。
 
 > The concept of spatial form has unquestionably been central to modern criticism not only of literature but of the fine arts and of language and of culture in general. Indeed, the consistent goal of the natural and human sciences in the twentieth century has been the discovery and/or construction of synchronic structural models to account for concrete phenomena.
-> 
+
 > 空间形式的概念无疑对现代批评极为重要，不仅是文学批评，通常还有美术批评、语言批评和文化批评。事实上，20世纪的自然科学和人文科学持之以恒的目标是发现和（或）构建解释具体现象的共时结构模式。
-=======
+
 该段落表达的思想有三个步骤，它们的图式结构几乎完全相同。每一步，生成一项活动，该活动又关联着它的源头活动，后者还构成另一项不同活动。每一个句子对应一个步骤，每句话继承了思想的图式结构，比如“你想象你所渴望之物”，成对的活动表现为成对的从句——“你想象”和“你渴望”——这对活动中的概念关系反映在这对从句的语言关系中。
 
 These three steps are not independent, but are ordered as a temporal sequence in which the product of one step serves as the source of the next. The grammatical structure mirrors this conceptual sequence: three sentences of the same grammatical form occur in linear order; the clause referring to the product in one sentence serves to refer to the source in the next.
@@ -83,7 +80,6 @@ Similarly, in the classic view, the thought exists before the expression, and th
 > The concept of spatial form has unquestionably been central to modern criticism not only of literature but of the fine arts and of language and of culture in general. Indeed, the consistent goal of the natural and human sciences in the twentieth century has been the discovery and/or construction of synchronic structural models to account for concrete phenomena.
 
 > 空间形式的概念无疑对现代批评极为重要，不仅是文学评判，通常还有美术批评、语言批评和文化批评。事实上，20世纪的自然科学和人文科学持之以恒的目标是发现和（或）构建解释具体现象的共时结构模式。
->>>>>>> 80eb87459b9fc7aa5491552ef8218e1fee983ae8:TEMPLATE-ClassicStyle/20180429ClassicStyleExcerpt-v.0.md
 
 Classic style is not exclusive. A writer’s position or status cannot make her a classic writer, or bar her from becoming a classic writer. An undergraduate at a junior college wrote the following classic passage in her discussion of the spatial form of Rembrandt’s Old Man with a Gold Chain:
 
@@ -91,13 +87,10 @@ Classic style is not exclusive. A writer’s position or status cannot make her 
 
 > Rembrandt was a very young man when he painted this picture, but it is a work demonstrating the insight and wisdom of an older man. It is a poignant picture and painful to look upon because it is not just a painting of a man, but an expression of mortality.
 
-<<<<<<< HEAD:TEMPLATE-ClassicStyle/classic-style-excerpt-translation.md
 > 伦勃朗画这幅画时是一位非常年轻的小伙子，但这幅画体现的洞见和智慧犹如来自一位更年长的人。这是一幅悲楚的画，看着令人痛苦，因为他不仅是一个人的画像，也是一种对死亡的表达。
 
 CHANGE LOG
 20180430 修正句间关系和个别词汇等1.5h
 20180429 修正概念表述和句子流畅等2h
 20180429 初译4h
-=======
-> 伦勃朗画这幅画时是一位非常年轻的小伙子，但这幅画体现的洞见和智慧犹如他是一位比实际年龄更年长的人。这是一幅悲楚的画，看着令人痛苦，因为他不仅是一个人的画像，也是一种对死亡的表达。
->>>>>>> 80eb87459b9fc7aa5491552ef8218e1fee983ae8:TEMPLATE-ClassicStyle/20180429ClassicStyleExcerpt-v.0.md
+
