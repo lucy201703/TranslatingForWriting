@@ -6,169 +6,232 @@ Part6-10
 
 ## Part 6 
 "Do you remember when he used to come to the Terrace? I wanted to take him fishing but I was too timid to ask him. Then I asked you to ask him and you were too timid." 
-“你记得他什么时候来过天台吗？我想带他去打鱼但是没敢问他。然后我让你去问他你也不敢。”
+
+“你记得他什么时候来过天台吗？我想带他去打鱼但是没敢问他。然后我让你去问你也不敢。”
 
 "I know. It was a great mistake. He might have gone with us. Then we would have that for all of our lives."
-我知道。这是个大错误，他本来可能和我们一起打鱼的。这样我们的生活会因此而增彩。
+
+我知道。过错大了，他本来可能和我们一起打鱼。我们此生也就光耀门楣了。
 
 "I would like to take the great DiMaggio fishing," the old man said. "They say his father was a fisherman. Maybe he was as poor as we are and would understand."
-“我想带了不起的迪马乔打鱼，”老人说。“他们说他的父亲是个渔夫。也许他过去和我们一样穷，会理解我们的心意的。”
+
+“我想带了不起的迪马乔打鱼，”老人说。“他们说他的父亲是个渔夫。也许他曾经和我们一样穷，会理解的。”
 
 "The great Sisler's father was never poor and he, the father, was playing in the Big Leagues when he was my age."
-“了不起的西斯勒的父亲从来没有经历贫穷，在我这个年龄他（父亲）正在大联盟打球。”
+
+“了不起的西斯勒的父亲从来没穷过，在我这个年龄他（父亲）正在大联盟打球。”
 
 "When I was your age I was before the mast on a square rigged ship that ran to Africa and I have seen lions on the beaches in the evening." 
-“我在你这个年龄，我在去往非洲的rigged船上站在桅杆前，晚上我看到了沙滩上的狮子。”
+
+“在你这个年龄，我站在桅杆前，在一条去往非洲装着横帆的船上，晚上我看到了沙滩上的狮子。”
 
 "I know. You told me."
-“我知道。你跟我说过”
+
+“我知道。你跟我说过。”
 
 "Should we talk about Africa or about baseball?" 
-“我们应该聊非洲还是聊棒球？”
+
+“我们该聊聊非洲还是棒球？”
 
 "Baseball I think," the boy said. "Tell me about the great John J. McGraw." He said Jota for J. 
-“我觉得棒球吧，”男孩说。“跟我说说约翰J.Mcgraw”。他把Jota说成J。
+
+“我觉得棒球吧，”男孩说。“跟我说说约翰J.麦格劳”。他把Jota说成J。
 
 "He used to come to the Terrace sometimes too in the older days. But he was rough and harsh-spoken and difficult when he was drinking. His mind was on horses as well as baseball.At least he carried lists of horses at all times in his pocket and frequently spoke the names of horses on the telephone."
-他过去有时也来天台。但是他不好相处rough、说话刻薄、喝酒时还喜欢找茬difficult。他除了棒球还老想着赛马。至少他的口袋里总装着赛马的名单，电话里经常提到赛马的名字。
+
+他过去有时也来天台。但是他很粗野，说话刻薄，喝酒时还不好相处。除了棒球他的心思都在赛马上。至少他的口袋里总装着赛马名单，电话里经常提到赛马的名字。
 
 "He was a great manager," the boy said. "My father thinks he was the greatest." 
+
 “他是个了不起的经理，”男孩说。“我爸爸认为他是最了不起的。”
 
 "Because he came here the most times," the old man said. "If Durocher had continued to come here each year your father would think him the greatest manager." 
+
 “那是因为他来这里最多，”老人说。“如果迪罗谢每年来这里，你爸爸会觉得他是最了不起的经理。”
 
 "Who is the greatest manager, really, Luque or Mike Gonzalez?" 
-“说着的，最了不起的经理是谁？卢克 还是 Mike 冈萨雷斯”
+
+“最了不起的经理是谁？说着的，卢克 还是迈克·冈萨雷斯？”
 
 "I think they are equal. "And the best fisherman is you."
-“我认为他们实力相当。而最好的渔夫是你。”
+
+“我认为他们实力相当。要说最好的渔夫当然是你。”
 
 " No. I know others better."
-“不是我，我知道其他人更好。”
+
+我不算，我知道其他人更好。”
 
 "Que va," the boy said. "There are many good fishermen and some great ones. But there is only you."
-“哪里！”男孩说。“有许多不错的渔夫，有一些很厉害。但你是唯一的。”
+
+“哪里！”男孩说。“有许多不错的渔夫，也有些很厉害。但你是唯一的。”
 
 "Thank you. You make me happy. I hope no fish will come along so great that he will prove us wrong.
-“谢谢你。你让我很开心。我希望特别大的鱼会避开我，这就证明我不是最好的渔夫。”
+
+“谢谢你。你让我很开心。我希望大鱼遇到我会绕开，证明我们是错的。”
 
 "There is no such fish if you are still strong as you say." 
-如果你还像你自己说的那么强，就不会有这样的鱼。
+
+如果你还像自己说的那么强，就不会有这样的鱼。
 
 "I may not be as strong as I think," the old man said. "But I know many tricks and I have resolution." 
-“我也许不像你想的那样强，”老人说。“但我懂很多窍门，而且有决心。”
+
+“我也许不像你想象中那样强，”老人说。“但我懂很多捕鱼窍门，而且有决心。”
 
 "You ought to go to bed now so that you will be fresh in the morning. I will take the things back to the Terrace."
-“你现在该上床啦，明天早上才有精神。我会把东西送回天台。”
+
+“你现在该上床啦，明天早上才有精神。我把东西送回天台。”
 
 "Good night then. I will wake you in the morning." 
+
 “那晚安。早上我叫醒你。”
 
 "You're my alarm clock." the boy said. 
+
 “你是我的闹钟。”男孩说。
 
 "Age is my alarm clock," the old man said.
+
 “年龄是我的闹钟，”老人说。
 
 "Why do old men wake so early? Is it to have one longer day?" 
+
 “为什么老人醒那么早？是为了让一天过得更长？”
 
 "I don't know,” the boy said. “All I know is that young boys sleep late and hard." 
+
 “我不知道，”男孩说。“我只知道年轻男孩睡得沉起得晚。”
 
 "I can remember it," the old man said. "I'll waken you in time." 
+
 "我不会忘的，"老人说。“我会准时叫醒你。”
 
 "I do not like for him to waken me. It is as though I were inferior."
-“我不喜欢他叫醒我，好像我很次一样。”
+
+“我不喜欢他叫醒我，好像我很菜一样。”
 
 "I know." 
+
 “我知道。”
 
 "Sleep well old man.
+
 “好好睡吧老头。”
 ---------------------------------------------
 ## Part 7
 The boy went out. They had eaten with no light on the table and the old man took off his trousers and went to bed in the dark. He rolled his trousers up to make a pillow, putting the newspaper inside them. He rolled himself in the blanket and slept on the other old newspapers that covered the springs of the bed.
-男孩出去了。他们在没有灯的桌上吃完后，老人脱下裤子摸黑上床了。他把裤子卷起来形成一个枕头，把报纸塞进裤子里面。把自己裹在毛毯里，睡在铺着报纸的弹簧床上。
+
+男孩出去了。饭桌上没灯他们吃完后，老人脱下裤子摸黑上床了。他把裤子卷起来做成一个枕头，把报纸塞进裤子里面。他把自己裹在毛毯里，睡在铺着报纸的弹簧垫上。
 
 He was asleep in a short time and he dreamed of Africa when he was a boy and the long golden beaches and the white beaches, so white they hurt your eyes, and the high capes and the great brown mountains.He lived along that coast now every night and in his dreams he heard the surf roar and saw the native boats come riding through it. He smelled the tar and oakum of the deck as he slept and he smelled the smell of Africa that the land breeze brought at morning. 
-没多久他就睡着了，他梦见孩童时的非洲、长长的金沙滩、白得晃眼的白沙滩，high capes,棕色的大山峰。他现在每天晚上住在海岸边，在他梦里他听到海浪咆哮，当地的船划在浪潮上迎过来。他睡觉的时候闻到甲板上沥青和棉絮的味道，闻到陆地上的晨风带来的非洲味道。
+
+没多久他就睡着了，他梦见孩童时的非洲、长长的金沙滩、白得刺眼的白沙滩，耸立的海岬,褐色的高山。他现在每天晚上住在海岸边，在梦里听见海浪咆哮，当地的船只冲在浪潮上迎过来。睡觉时他闻到甲板上的沥青和棉絮，闻到陆地上的晨风吹来的非洲味道。
 
 Usually when he smelled the land breeze he woke up and dressed to go and wake the boy. But tonight the smell of the land breeze came very early and he knew it was too early in his dream and went on dreaming to see the white peaks of the Islands rising from the sea and then he dreamed of the different harbors and roadsteads of the Canary Islands.
-他常常闻到陆地的微风就醒了，他穿好衣服去叫男孩起来。但是今晚陆风吹来的味道来得很早，他在梦里知道吹得太早了，于是继续梦下去，看到从大海上升起的海岛顶端，然后又梦到加那利群岛不同的港口和roadstead.
+
+一般只要闻到从陆地吹来的微风，他就醒了，然后穿好衣服去叫醒男孩。但是今晚陆地吹来的味道来得很早，在梦里他知道风来得太早，于是继续梦见从海上升起的海岛顶峰，然后又梦见加那利群岛不同的港口和停泊所.
 
 He no longer dreamed of storms, nor of women, nor of great occurrences, nor of great fish, nor fights, nor contests of strength, nor of his wife. He only dreamed of places now and of the lions on the beach. They played like young cats in the dusk and he loved them as he loved the boy. He never dreamed about the boy. He simply woke, looked out the open door at the moon and unrolled his trousers and put them on. He urinated outside the shack and then went up the road to wake the boy.He was shivering with the morning cold. But he knew he would shiver himself warm and that soon he would be rowing. 
-他不再梦到风暴、女人，也不再梦到大事件、大鱼，也没有梦到战斗、角力和他的妻子。他现在只梦到不同地方和沙滩上的狮子。他只是睁着眼，看到敞开的门外面的月亮，展平裤子穿上。他在棚屋外解手，然后沿着马路走上去叫男孩起来。他被早晨的冷风吹得直哆嗦。但他知道打哆嗦会让他渐渐暖和起来，而且马上就可以去划船了。
+
+风暴、女人、大事件、大鱼、战斗、角力和他的妻子，他再也没有梦到过。他现在只梦见不同地方和沙滩上的狮子。他睁着眼睛，透过敞开的门看到外面的月亮，抚平裤子穿上。他去棚屋外解手，然后沿着马路向上走，去叫醒男孩。清晨的低温冻得他直打哆嗦。但他知道打哆嗦会让他渐渐暖和起来，而且马上他就要去划船了。
 
 The door of the house where the boy lived was unlocked and he opened it and walked in quietly with his bare feet. The boy was asleep on a cot in the first room and the old man could see him clearly with the light that came in from the dying moon. He took hold of one foot gently and held it until the boy woke and turned and looked at him. The old man nodded and the boy took his trousers from the chair by the bed and, sitting on the bed, pulled them on.
-男孩住的房子门没锁，老人推开门，光着脚轻轻地走进去。男孩在第一间房的围床里睡着，残月的光照进来，老人可以清晰地看到男孩。他轻轻地握住男孩的一只脚，知道男孩醒来翻过身来看着他。老人点点头，男孩拿起床边椅子上的裤子，坐在床沿上，把裤子穿好。
 
-The old man went out the door and the boy came after him. He was sleepy and the old man put his arm across his shoulders and said, "I am sorry." "Que'va," the boy said. "It is what a man must do." They walked down the road to the old man's shack and all along the road, in the dark, barefoot men were moving, carrying the masts of their boats. When they reached the old man's shack the boy took the rolls of line in the basket and the harpoon and gaff and the old man carried the mast with the furled sail on his shoulder.
-老人走到门外，男孩跟着他出来。他还未睡醒，老人搂着他的肩膀说，“对不起。”“哪里！”男孩说。“这是一个男人该做的。”他们沿着马路往下走回老人的棚屋，漆黑黑的路上，光着脚的人往前走，身上扛着船的桅杆。
+男孩住的房子没锁门，老人推开门，光着脚轻轻走进去。男孩在第一间房的围床里睡着，月亮的余光照进来，老人可以清晰地看到男孩。他轻轻地握住男孩的一只脚，直到男孩醒了翻过身来看着他。老人点点头，男孩拿起床边椅子上的裤子，坐在床沿上穿好裤子。
+
+The old man went out the door and the boy came after him. He was sleepy and the old man put his arm across his shoulders and said, "I am sorry." 
+
+老人走出来，男孩跟着他。他还未睡醒，老人搂着他的肩膀说，“对不起。”
+
+"Que'va," the boy said. "It is what a man must do." 
+
+“哪里！”男孩说。“这是一个男人该做的。”
+
+They walked down the road to the old man's shack and all along the road, in the dark, barefoot men were moving, carrying the masts of their boats.
+
+他们沿着马路往下走回老人的棚屋，漆黑黑的路上，光着脚的人往前走，身上扛着船的桅杆。
+
+When they reached the old man's shack the boy took the rolls of line in the basket and the harpoon and gaff and the old man carried the mast with the furled sail on his shoulder.
+
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Part 8
 "Do you want coffee?" the boy asked. 
-“你想来点咖啡吗？”男孩问。
+
+“你想来杯咖啡吗？”男孩问。
 
 "We'll put the gear in the boat and then get some." They had coffee from condensed milk cans at an early morning place that served fishermen. 
-“我们先把渔具放到船上然后喝点。”他们在一家招待早起渔夫的地方喝了用浓缩牛奶罐做的咖啡。
+
+“我们先把渔具放到船上然后喝点咖啡。”他们去了一家招待早起渔夫的地方喝咖啡，那里的咖啡出自浓缩的牛奶罐。
 
 "How did you sleep old man?" the boy asked. He was waking up now although it was still hard for him to leave his sleep. 
-“老头你睡得怎样？”男孩问。他现在很清醒，虽然还是很难摆脱睡意。
+
+“老头你睡得怎样？”男孩问。他现在醒着，虽然还是很难摆脱睡意。
 
 "Very well, Manolin," the old man said."I feel confident today." 
-“睡得很好，Manolin，”老人说。“我今天感觉很自信。”
+
+“睡得很好，马诺林，”老人说。“我今天觉得信心十足。”
 
 "So do I," the boy said. "Now I must get your sardines and mine and your fish baits. He brings our gear himself. He never wants anyone to carry anything."
-“我也是，”男孩说。“现在我得去拿你的沙丁鱼和我自己的，还有你的鱼饵。他自己带我们的渔具。他从来不让任何人碰他的东西。”
+
+“我也是，”男孩说。“现在我得去拿我们各自的沙丁鱼，还有你的鱼饵。他自己带我们的渔具。他从来不让任何人拿他的东西。”
 
 "We're different," the old man said. "I let you carry things when you were five years old." 
+
 “我们不同，”老人说。“你5岁我就开始让你拿东西了。”
 
 "I know it," the boy said. "I'll be right back. Have another coffee. We have credit here." 
-“我知道，”男孩说。“我马上回来。你再喝一杯。我们在这里有信誉。”
+
+“我知道，”男孩说。“我马上回来。你再喝一杯。我们这里的账户有余额。”
 
 He walked off, bare-footed on the coral rocks, to the ice house where the baits were stored. 
-男孩走了，光着脚走过珊瑚礁上，往存鱼饵的冰房去。
+
+男孩光着脚走在珊瑚礁上，往存鱼饵的冰库走去。
 
 The old man drank his coffee slowly. It was all he would have all day and he knew that he should take it. For a long time now eating had bored him and he never carried a lunch. He had a bottle of water in the bow of the skiff and that was all he needed for the day.
-老人慢慢地喝着他的咖啡。这是他一天的全部能量来源，他知道他应该喝进去。长时间以来老人对吃饭很烦恼，他也从来没有带过午饭。他在船头放了一瓶水，够他一天用。
+
+老人慢慢地喝着他的咖啡。这是他全天的能量补给，他知道得喝下去。长时间以来吃饭对老人是一件麻烦事，他从来没有带过午餐。船头一瓶水，够他一天用。
 
 The boy was back now with the sardines and the two baits wrapped in a newspaper and they went down the trail to the skiff, feeling the pebbled sand under their feet, and lifted the skiff and slid her into the water.
-男孩拿着沙丁鱼和两条用报纸包好的鱼饵回来了。他们沿着小径走到小船停靠处，脚底踩着pebbled sand,把船举起来放到水里。
+
+男孩回来了，拿着沙丁鱼和两条用报纸包好的鱼饵。他们沿着小路下到小船停靠处，脚下的沙砾混着石头,然后举起船放到水里。
 
 "Good luck old man."
+
 “祝你好运，老头。”
 
 "Good luck," the old man said. He fitted the rope lashings of the oars onto the thole pins and, leaning forward against the thrust of the blades in the water, he began to row out of the harbor in the dark.There were other boats from the other beaches going out to sea and the old man heard the dip and push of their oars even though he could not see them now the moon was below the hills.
-“住我好运，”老人说。他爸桨的绳圈安在桨栓上，靠在前面对着the thrust of the blades in the water,在黑暗中他开始划出港湾。其它沙滩也有出海的船，虽然月亮在山下面老人还看不到他们，但可以听到他们用桨划动的声音dip和push，
 
-Sometimes someone would speak in a boat. But most of the boats were silent except for the dip of the oars. They spread apart after they were out of the mouth of the harbor and each one headed for the part of the ocean where he hoped to find fish. The old man knew he was going far out and he left the smell of the land behind and rowed out into the clean early morning smell of the ocean.He saw the phosphorescence of the Gulf weed in the water as he rowed over the part of the ocean that the fishermen called the great well because there was a sudden deep of seven hundred fathoms where all sorts of fish congregated because of the swirl the current made against the steep walls of the flour of the ocean. Here there were concentrations of shrimp and baitfish and sometimes schools of squid in the deepest holes and these rose close to the surface at night where all the wandering fish fed on them.
-有时有人在船上讲话。但大多数船除了划桨声沉寂不语。他们划出港口后就各自分开了，每个渔夫向他们希望找到鱼的那部分海洋划去。老人知道他要划得很远，背后陆地的味道离他越来越远，他划进海洋干净的早晨的味道。他看到水里gulf weed的美景，他正划过那片渔夫称作great well的海洋时，“great well”有700英尺fathom深，因为与海洋flour陡壁的水墙对冲的潮流形成漩涡，聚集了各种各样的鱼。这里有许多concentration虾、用作鱼饵的鱼，有时在还有成群深洞里的squid在晚上升到水面，成为所有附近的游鱼的美餐。
+“祝我好运，”老人说。他把桨的绳圈安在桨栓上，身子前倾以缓冲桨叶在水里的推力，他开始划出黑暗中的港湾。其它海滩的船也出海了，虽然月亮落到山下老人看不到他们，但可以听到他们船桨下水和划动的声音。
+
+Sometimes someone would speak in a boat. But most of the boats were silent except for the dip of the oars. They spread apart after they were out of the mouth of the harbor and each one headed for the part of the ocean where he hoped to find fish. The old man knew he was going far out and he left the smell of the land behind and rowed out into the clean early morning smell of the ocean.He saw the phosphorescence of the Gulf weed in the water as he rowed over the part of the ocean that the fishermen called the great well because there was a sudden deep of seven hundred fathoms where all sorts of fish congregated because of the swirl the current made against the steep walls of the floor of the ocean. Here there were concentrations of shrimp and baitfish and sometimes schools of squid in the deepest holes and these rose close to the surface at night where all the wandering fish fed on them.
+
+有时船上有人声。但大多数船沉寂无语除了桨声。划出港口后他们就各自分开了，每个渔夫划向一片海，希望在那里捕到鱼。老人知道他要去很远的海，任陆地的味道渐行渐远，他迎着清晨澄澈的味道划向大海。他划过那片渔夫称作“大水井”的海时，看到水里马尾藻的美景：“大水井”深700英寻，因为潮流形成的漩涡与海底陡峭的水墙反向，各种各样的鱼聚集在这里。这里有大量虾和饵鱼，有时深洞里的乌贼夜里成群涌上水面，成为所有附近游鱼的美餐。
  
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Part 9
 In the dark the old man could feel the morning coming and as he rowed he heard the trembling sound as flying fish left the water and the hissing that their stiff set wings made as they soared away in the darkness. He was very fond of flying fish as they were his principal friends on the ocean. He was sorry for the birds, especially the small delicate dark terns that were always flying and looking and almost never finding, and he thought, the birds have a harder life than we do except for the robber birds and the heavy strong ones.
-在黑夜中，老人可以感觉到天色渐起。他划船时听到飞鱼离开水面trembling抖动的声音，和他们挺直的翅膀在夜里飞驰的hissing声。他非常喜爱飞鱼，因为在海里它们是他最主要的朋友。他为小鸟感动难过，尤其是那些细小纤弱的黑燕鸥，它们总是边飞边找，但几乎找不到任何东西。他觉得这些鸟儿比人的生活还艰辛，除了一些健硕的鸟或强壮的大鸟。
+
+夜里老人感到天色渐起，划船时他听到飞鱼离开水面抖动的声音，和挺直的翅膀在夜里飞驰发出的嘶嘶声。他非常喜欢飞鱼，因为它们是他在大海里的主要朋友。他为鸟感到难过，尤其是那些细小纤弱的黑燕鸥，它们飞个不停寻找什么，但几乎从来找不到什么。他觉得这些鸟活得比人艰辛，除了一些强盗鸟和强壮的大鸟。
 
 Why did they make birds so delicate and fine as those sea swallows when the ocean can be so cruel? She is kind and very beautiful. But she can be so cruel and it comes so suddenly and such birds that fly, dipping and hunting, with their small sad voices are made too delicately for the sea. 
-为什么他们把鸟出于像海燕一样纤细弱小的姿态，而大海却如此残忍？她很善良也很美。但她能如此残忍，突然的凶猛，让这些低怨的飞鸟dipping and hunting，在大海面前不堪一击。
+
+为什么他们把鸟弄成像海燕一样纤细弱小，而大海却如此残忍？她善良美丽。但她能如此残忍，突然暴起，让这些触水追寻、低怨哀鸣的飞鸟触不及防。
 
 He always thought of the sea as la mar which is what people call her in Spanish when they love her. Sometimes those who love her say bad things of her but they are always said as though she were a woman. Some of the younger fishermen, those who used buoys as floats for their lines and had motorboats, bought when the shark livers had brought much money, spoke of her as el mar which is masculine. They spoke of her as a contestant or a place or even an enemy. But the old man always thought of her as feminine and as something that gave or withheld great favors, and if she did wild or wicked things it was because she could not help them. The moon affects her as it does a woman, he thought. 
-他总是把大海想成la mar,人们对她的西班牙语爱称。有时爱她的人讲她的坏话，但她总是被当作一个女人一样提及。一些年轻的渔夫，他们用buoy当作钓索的floats他们有摩托潜艇，用鲨鱼肝卖钱买来的，把她说成男性称谓的el mar。他们把她当作竞争对手或者一个地方或者是敌人。但老人总是把她当作女性，认为她既能赐予亦能收回大恩惠，如果她做了什么狂野或者恶意的事情那是因为她无法避免它们。他想，月亮对她的影响跟对女人的影响是一样的。
+
+他总是把大海当成“海姑娘”,西班牙语中人们对她的爱称。有时那些爱她的人讲她的坏话，但她还是被当作一个女人。一些年轻的渔夫——他们用浮标当作钓索的浮子，他们有摩托潜艇，这些都是用鲨鱼肝卖钱买来的——把她说成男性称谓的“海汉子”。他们把她当作一位竞争对手、或者一个地点甚至一位敌人。但年长的人总是把她当作女性，他们认为她既能赐予亦能收回莫大的恩惠，如果她做了什么狂野或者恶意的事情那是因为她无法避免它们。他想，月亮对她的影响跟对女人的影响是一样的。
 
 He was rowing steadily and it was no effort for him since he kept well within his speed and the surface of the ocean was flat except for the occasional swirls of the current. He was letting the current do a third of the work and as it started to be light he saw he was already further out than he had hoped to be at this hour.
-他划得很平稳，这对他不是难事，因为他的速度控制得很好，海面也很平静，除了偶尔的涡流之外。他让海流承担三分之一的工作，随着天色亮起来，他看到自己已经远远划出自己这个时候希望在的位置了。
 
+他划得很平稳，这对他不是难事，因为他的速度控制得很好，海面也很平静，除了偶尔的涡流之外。他让海流承担三分之一的工作，随着天色渐亮，他看到自己已经划出很远了，比他预想中这个时刻应在的位置更远。
 
 I worked the deep wells for a week and did nothing, he thought. Today I'll work out where the schools of bonito and albacore are and maybe there will be a big one with them. 
-他想，我在深井忙活了一星期什么都没有。今天我要找出成群的bonito鲣 和长鳍金枪鱼在哪，也许有一条大鱼跟它们一起。
+
+他想，我在深井忙活了一星期什么都没有。今天我要找到成群的鲣鱼和长鳍金枪鱼，也许有一条大鱼跟它们一起。
 
 Before it was really light he had his baits out and was drifting with the current.One bait was down forty fathoms. The second was at seventy-five and the third and fourth were down in the blue water at one hundred and one hundred and twenty-five fathoms. Each bait hung head down with the shank of the hook inside the bait fish, tied and sewed solid and all the projecting part of the hook, the curve and the point, was covered with fresh sardines. Each sardine was hooked through both eyes so that they made a half-gar-land on the projecting steel. There was no part of the hook that a great fish could fell which was not sweet smelling and good tasting. 
-天大亮之前，他把鱼饵放出去随海流漂浮。一只饵40英尺深，第二只75英尺，第三只和第四只在蓝色的深海里，分别在100英尺和125英尺处。每只鱼饵头朝下，鱼钩shank伸到鱼饵里面，系得紧缝得牢实，鱼钩所有伸出来的部分，弯曲的部分和钩尖全都包着新鲜的沙丁鱼。每条沙丁鱼刺穿两只眼睛钩住，这样就能用伸出的钢铁形成half-gar-land。引诱大鱼上钩的鱼钩的每部分都得闻起来香尝起来可口。
+
+天大亮之前，他把鱼饵放出去，任船随海流漂浮。一只鱼饵放到40英寻深的地方，第二只75英寻，第三只和第四只深入蓝色的海下面，分别位于100英寻和125英寻处。每只鱼饵头朝下，鱼身穿过鱼钩手柄，系好缝牢实，鱼钩所有伸出来的部分、弯曲的地方和钩尖全都包着新鲜的沙丁鱼。每条沙丁鱼用钩子穿住两只眼睛，这样伸出的钢铁部分构成半环状。任何大鱼可能上钩的位置，没有一处不香甜可口。
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Part 10
