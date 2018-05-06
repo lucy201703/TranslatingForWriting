@@ -51,7 +51,7 @@ Part6-10
 
 "Who is the greatest manager, really, Luque or Mike Gonzalez?" 
 
-“最了不起的经理是谁？说着的，卢克 还是迈克·冈萨雷斯？”
+“最了不起的经理是谁？说真的，卢克还是迈克·冈萨雷斯？”
 
 "I think they are equal. "And the best fisherman is you."
 
@@ -151,6 +151,8 @@ They walked down the road to the old man's shack and all along the road, in the 
 他们沿着马路往下走回老人的棚屋，漆黑黑的路上，光着脚的人往前走，身上扛着船的桅杆。
 
 When they reached the old man's shack the boy took the rolls of line in the basket and the harpoon and gaff and the old man carried the mast with the furled sail on his shoulder.
+
+但他们回到老人的棚屋，男孩拿起盛着绳索的篮子和鱼钩鱼叉，老人扛着卷着帆的桅杆。
 
  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
