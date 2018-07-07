@@ -6,7 +6,7 @@
 
 —Bernard Shaw, the serpent speaking to Eve in Back to Methuselah
 
-—出自萧伯纳的剧作《回到玛士撒拉时代》，蛇对夏娃说的话
+—萧伯纳，《千岁人》，蛇对夏娃说的话[ 萧伯纳，《千岁人》，1921，收录于《萧伯纳戏剧全集》，全6卷，纽约，Dodd 出版社，1963，第2卷第10页]
 
 
 The thought expressed in this passage has three steps. They are schematically identical. In each, an activity is located and then linked to its source in a different activity. There is a sentence expressing each step. Each of these sentences inherits the schematic structure of the thought, as in “You imagine what you desire.” Paired activities are expressed as paired clauses—“you imagine” and “you desire”—and the conceptual link between paired activities is mirrored in the linguistic link between paired clauses.
@@ -19,7 +19,7 @@ These three steps are not independent, but are ordered as a temporal sequence in
 
 Shaw’s passage—with its precise and detailed combination of schematic images—is the result of conceptual and linguistic work, but the work is not exhibited. Reading the sentence is like watching a champion gymnast perform a routine on the parallel bars. Obviously the gymnastic performance is the result of previous work, but only the achievement is exhibited.
 
-萧伯纳的这段话——图式意象组合既精确又细致——正是概念分析和遣词造句的结果，然而它们的过程并没有展现出来。阅读这些句子犹如观看一位体操冠军表演一套双杠动作。显然，这套体操表演是先前训练的结果，但只展现了成果。
+萧伯纳的这段话——意象图式组合既精确又细致——正是概念分析和遣词造句的结果，然而它们的过程并没有展现出来。阅读这些句子犹如观看一位体操冠军表演一套双杠动作。显然，这套体操表演是先前训练的结果，但只展现了成果。
 
 The achievement is final. In the classic view, thought comes first and language is sufficient to express it. Any problem of expression has an exact solution in the language, and this solution, once found, will appear to be obvious, perfect, and definitive. The writer knows when he has finished revising.
 
@@ -43,7 +43,7 @@ Shaw’s sentence knows when to stop because it expresses a complete analysis. I
 
 > The concept of spatial form has unquestionably been central to modern criticism not only of literature but of the fine arts and of language and of culture in general. Indeed, the consistent goal of the natural and human sciences in the twentieth century has been the discovery and/or construction of synchronic structural models to account for concrete phenomena.
 
-> 空间形式的概念无疑对现代批评极为重要，不仅是文学批评，通常还有美术批评、语言批评和文化批评。事实上，20世纪的自然科学和人文科学持之以恒的目标是发现和（或）构建解释具体现象的共时结构模式。
+> 空间形式的概念无疑对现代批评极为重要，不仅是文学批评，通常还有美术批评、语言批评和文化批评。事实上，20世纪的自然科学和人文科学持之以恒的目标是发现和（或）构建解释具体现象的共时结构模式。[ 这是出自W.J.T.米歇尔的文章《文学中的空间形态：一个理论探索的尝试》，原刊于《Critical Inquiry》第6期第3册，1980年出版，第539-567页。米歇尔是《Critical Inquiry》的编辑，而盖罗·多纳利则是芝加哥大学英语语言文学系的杰出服务教授。]
 
 Classic style is not exclusive. A writer’s position or status cannot make her a classic writer, or bar her from becoming a classic writer. An undergraduate at a junior college wrote the following classic passage in her discussion of the spatial form of Rembrandt’s Old Man with a Gold Chain:
 
@@ -51,10 +51,11 @@ Classic style is not exclusive. A writer’s position or status cannot make her 
 
 > Rembrandt was a very young man when he painted this picture, but it is a work demonstrating the insight and wisdom of an older man. It is a poignant picture and painful to look upon because it is not just a painting of a man, but an expression of mortality.
 
-> 伦勃朗画这幅画时还是一位非常年轻的小伙子，但这幅画体现的洞见和智慧犹如来自一位更年长的人。这是一幅悲楚的画，看着令人痛苦，因为他不仅是一个人的画像，也是一种对死亡的表达。
+> 伦勃朗画这幅画时还是一位非常年轻的小伙子，但这幅画体现的洞见和智慧犹如来自一位更年长的人。这是一幅悲楚的画，看着令人痛苦，因为他不仅是一个人的画像，也是一种对死亡的表达。[ 出自苏珊·派普斯未出版的文稿《伦勃朗：戴金项链的老者》]
 
 ---
-**CHANGE LOG**   
+**CHANGE LOG**  
+20180504 Tony修改校对
 20180430 与阿杰语音讨论修改，2h
 20180430 结合阿杰意见修正，2h  
 20180430 阿杰反馈、提建议，1.5h  
