@@ -57,14 +57,13 @@ Traditional writing instruction tacitly assumes that writing is a normal human a
 "Clear and Simple as the Truth is an island of elegance. This book won't tell you about working in publishing and doesn't mention the Internet. It goes back to the source - the reason many of us got into this field in the first place - a love of language, of thoughts perfectly expressed, concepts elegantly communicated. When the authors say that the Audubon Society Field Guide to North American Birds is the epitome of classic writing, we believe them. We believe almost everything these authors say, because they say it so incredibly well." 
 — Judy Cleary, The Editorial Eye
 
-“《古典风格》是一座美丽的岛屿。这本书不会告诉你一本书的出版工作, 也不会提到互联网。它追踪溯源——很多人喜欢写作的初衷——热爱语言, 热爱思想被完美地复现，热爱概念被优雅地表达。当作者说《北美鸟类奥杜邦协会野外指南》是古典写作的代表，我们相信他们。我们几乎相信作者说的一切, 因为他们表达得太好了。”
+“《古典风格》是一座美丽的岛屿。这本书不会告诉你一本书的出版工作, 也不会提到互联网。它追踪溯源——我们很多人喜欢写作的初衷——对语言的爱, 对完美地表达思想的爱，对优雅地传达概念的爱。当作者说《奥杜邦协会北美鸟类图鉴》是古典写作的代表，我们相信他们。我们几乎相信作者说的一切, 因为他们说得太好了。”
 ——《The Editorial Eye》 朱蒂·克莱瑞（Judy Cleary）
 
 "This marvelous little book avoids the inevitable arguments that arise from even the best How To and How Not To books. It does this by describing some fundamental questions that they identify as the elements of style and by illustrating the way that classic style can be defined by a particular set of answers to those questions. Stimulating, fresh, invigorating. I recommend it highly."
 — Michael Gordon-Smith.
 
-“这本非凡的小书避开了不可避免的争论——甚至最好的写作指南引发的争论。它是这样做的：首先他们提出一些基本问题, 作为风格的基本要素；然后通过举例证明，对这些问题系列特定的回答，定义了古典风格。
-振奋人心、新颖有趣、神清气爽。我极力推荐。”
+“这本非凡的小书避开了不可避免的争论——甚至最好的指导手册也会引发的争论。它是这样做的：首先他们提出一些基本问题, 作为风格的基本要素；然后通过举例证明，对这些问题系列特定的回答，定义了古典风格。振奋人心、新颖有趣、神清气爽。我极力推荐。”
 ———迈克尔·戈登·史密斯（Michael Gordon-Smith）
 
 "Clear and Simple is not just an almost peerless manual of style. Like George Orwell's 'Politics and the English Language' and Herbert Read's English Prose Style, it uncovers the intricate relationship between literary expression, mental power, ideological bent, and personal character. It does this by close analysis of brilliantly chosen texts in several languages. Since it is itself an exhibit of classic style, it is a delight to read and reread." 
@@ -76,7 +75,7 @@ Traditional writing instruction tacitly assumes that writing is a normal human a
 "As Francis-Noël Thomas and Mark·Turner argue in this intriguing (for those of you who share my enthusiasms, I'll go so far as to call it thrilling) volume, learning to write is inevitably to learn styles of writing. This is a rigorous, extraordinarily captivating book, which, in its acute attention to the intellectual assumptions that shape prose style, has much to teach anyone caught in the web of words."
 — James Mustich, Jr. in A Common Reader. Go to full review.
 
-"正如弗朗西斯-诺尔·托马斯和马克·特纳在这本引人入胜(对于那些和我一样兴奋的人, 这种兴奋甚至说得上是激动人心) 的书中主张, 学习写作不可避免地要学习写作风格。这是一本严谨又扣人心弦的书, 它洞察了文本风格的智力假设；陷入文字网络中的人，可从中得到诸多启发。”
+"正如弗朗西斯-诺尔·托马斯和马克·特纳在这本引人入胜(对于那些和我一样兴奋的人, 这种兴奋甚至说得上是激动人心) 的书中主张, 学习写作不可避免地要学习写作风格。这是一本严谨又扣人心弦的书, 它洞察了文本风格的智力假设，陷入文字网络中的人，可从中得到诸多启发。”
 — 《A Common Reader》 小詹姆斯·马斯蒂奇（James Mustich, Jr.）
 
 

@@ -31,7 +31,7 @@
 "The best-known book about writing, Strunk & White's The Elements of Style, offers an elaborate list of do's and don'ts. Individually, these capsules of advice can be useful, but learn them all and you still won't know how to write. Francis-Noël Thomas and Mark Turner have taken an entirely different approach in Clear and Simple. . . . [I]t is filled with enough general advice to benefit anyone who writes anything." 
 — Christopher Ott, Writers' Journal.
 
-“斯特伦克和怀特的《风格要素》是流传最广的写作指南，书中罗列了详尽的做法和注意事项清单。这些建议胶囊，单看确实有用，但全部学会，你还是不知道如何写。弗朗西斯-诺尔·托马斯和马克·特纳在书中采取了完全不同的方法……给出足够普适的建议，任何人无论写什么，都会从中受益。”
+“斯特伦克和怀特的《风格要素》是流传最广的写作指南，书中罗列了详尽的该做事项及不该做事项的清单。总结的这些建议，单看确实有用，但全部学会，你还是不知道如何写。弗朗西斯-诺尔·托马斯和马克·特纳在书中采取了完全不同的方法……给出足够普适的建议，任何人无论写什么，都会从中受益。”
 ——《Writers' Journal》 克里斯托弗·奥托（Christopher Ott）。
 
 "Every once in a while a book comes along with the power to alter permanently the view of a subject you thought you knew well. For me this year, that book is Clear and Simple as the Truth: Writing Classic Prose." 
@@ -75,7 +75,7 @@ Foundation
 ### Francis-Noël Thomas
 My work as a scholar centers on how particular ways of organizing concepts become commonplace. My areas of special knowledge are iconography—the diffusion of ideas through pictures—and the history of literary interpretation—the history of reading as a form of human thought.
 
-作为一名学者，我的主要研究领域是如何普及概念组织的具体方式。我研究的特殊领域有：图像志——通过图像传播思想，以及文学解读的历史——把阅读的历史当作人类思想的一种形式。
+作为一名学者，我的主要研究领域是如何普及概念的具体组织方式。我研究的特殊领域有：图像志——通过图像传播思想，以及文学解读的历史——把阅读的历史当作人类思想的一种形式。
 
 Professor of Humanities
 1990-2004
