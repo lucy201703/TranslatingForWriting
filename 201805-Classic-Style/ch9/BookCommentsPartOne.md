@@ -10,7 +10,7 @@
 "If a more useful approach to the subject has been published in the past 25 years, I'm not aware of it. In this second edition, a very good book has gotten even better."
 — John Wilson, editor, Books & Culture
 
-“过去25年，这个主题是否出版过更实用的书，我没发现。这本书的第一版已经很好了，第二版更是出彩。 ”
+“过去25年，这个主题是否出版过更实用的书，我没发现。这本书的第一版已经很好了，第二版更出彩。 ”
 ——《Books & Culture》编辑 约翰·威尔森（John Wilson）
 
 "Every once in a while a book comes along with the power to alter permanently the view of a subject you thought you knew well. For me this year, that book is Clear and Simple as the Truth: Writing Classic Prose." — Denis Dutton, Philosophy and Literature
@@ -21,7 +21,7 @@
 "Thanks to Thomas and Turner, the cognitive revolution has finally caught up with the analysis of style — brilliantly, learnedly, and above all, readably."
 — David Lee Rubin, University of Virginia
 
-“多亏托马斯和特纳, 认知革命终于遇上文本风格分析——分析精辟透彻，且可习得，尤其难得的是深入浅出。”
+“多亏托马斯和特纳, 认知革命终于遇上文本风格分析——分析精辟透彻，且可习得，尤其好读。”
 ——弗吉尼亚大学 大卫·李·鲁宾（David Lee Rubin）
 
 "Clear and Simple As the Truth is just wonderful. It is by far the best book I've ever read in this area, and it has changed the way that I write and think about writing." — Paul Bloom, Professor of Psychology, Yale University

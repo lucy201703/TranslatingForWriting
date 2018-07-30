@@ -1,25 +1,25 @@
 "The most popular book on prose style is The Elements of Style by Strunk and White; I recommend it, although it is preoccupied with usage, punctuation, and grammar.The best book I have read on the substance of prose style is Thomas and Turner, Clear and Simple as the Truth; it deals mainly with one specific style, although others are considered along the way." 
 — Herbert S. Bailey, Jr., former director of Princeton University Press.
 
-“文本风格类书籍，最受欢迎的是斯特伦克和怀特的《风格要素》；我推崇它，可它只讲用法、标点符号和语法。我看过的书中，托马斯和特纳的《古典风格》对文本风格的本质讲得最好；它虽只针对一种特定的风格，但其它风格也在考虑之中。”
+“文本风格类书籍，最受欢迎的是斯特伦克和怀特的《风格要素》；我推崇它，可它只讲用法、标点符号和语法。我看过的书中，托马斯和特纳的《古典风格》对文本风格的本质讲得最好；它虽只针对一种特定的风格，但并没有忽略其它风格。”
 ——普林斯顿大学出版社前主任 小赫伯特·贝利（Herbert S. Bailey，Jr）。
 
 "Clear and Simple as the Truth has a scope and relevance that exceeds its ostensible subject. It is a treatment of classic style that manifests the virtues of the writing it propounds, expounds, and exemplifies in a wealth of fascinating passages, brilliantly analyzed."
 — M. H. Abrams, Cornell University
 
-“《古典风格》涉及范围之广，关联面之多，已超出它表面上的主题。它的篇章举例丰富生动，文本分析精彩绝伦，其阐述和例证无不展现了，它提出的这种写作的优势。”
+“《古典风格》涉及范围之广，关联面之多，已超出它表面上的主题。它的篇章举例丰富生动，文本分析精彩绝伦，对古典风格的阐述和例证，展现了它提出的这种写作的优势。”
 ——康奈尔大学 M.H.艾布拉姆斯（M. H. Abrams）
 
 "Could well be the most important discussion of style since the great classical rhetoricians. It will certainly join the small list of style-guides that are permanently useful."
 — Wayne C. Booth, University of Chicago
 
-“自伟大的古典修辞学家以来，这很可能是最重要的风格论著了。风格指南永不过时的一小撮名单中，必有它的一席之地。”
+“自伟大的古典修辞学家以来，这很可能是最重要的风格论著了。风格指南永不过时的一小撮名单中，它必有一席之地。”
 ——芝加哥大学 韦恩·C.布思（Wayne C. Booth）
 
 "Clear and Simple as the Truth is a work of great intellectual elegance and power. I have read it with a lot of pleasure, admiring the wisdom and economy of its reflections and the extraordinary range of its citations. Thomas and Turner have made a powerful case for civilized and intelligent discourse, and have done it without hectoring or polemical reductiveness." 
 — Claude Rawson, Yale University
 
-“《古典风格》是一件集才智、优雅与力量的伟大作品。这本书读来心旷神怡，它的真知灼见与旁征博引，无不令人敬佩。托马斯和特纳为聪慧得体的语言表达给出了充分的理由，而不是仅仅依靠虚张声势或据理力争达到说服的目的。”
+“《古典风格》是一件集才智、优雅与力量的伟大作品。这本书读来心旷神怡，它的真知灼见与旁征博引，令人敬佩。托马斯和特纳为聪慧得体的语言表达给出了充分的理由，而不是仅仅依靠虚张声势或据理力争达到说服的目的。”
 ——耶鲁大学 克劳德·罗森（Claude Rawson）
 
 "Clear and Simple as the Truth holds the promise of raising the level of the nation's prose. Thomas and Turner will have the literate nonacademic reader on their side from the outset and will win over most of the others through the sheer force of their passage-by-passage analysis. The book is full of cogency and insight." 
@@ -31,7 +31,7 @@
 "The best-known book about writing, Strunk & White's The Elements of Style, offers an elaborate list of do's and don'ts. Individually, these capsules of advice can be useful, but learn them all and you still won't know how to write. Francis-Noël Thomas and Mark Turner have taken an entirely different approach in Clear and Simple. . . . [I]t is filled with enough general advice to benefit anyone who writes anything." 
 — Christopher Ott, Writers' Journal.
 
-“斯特伦克和怀特的《风格要素》是流传最广的写作指南，书中罗列了详尽的该做事项及不该做事项的清单。总结的这些建议，单看确实有用，但全部学会，你还是不知道如何写。弗朗西斯-诺尔·托马斯和马克·特纳在书中采取了完全不同的方法……给出足够普适的建议，任何人无论写什么，都会从中受益。”
+“斯特伦克和怀特的《风格要素》是流传最广的写作指南，书中详尽地罗列了应做事项及不该做事项。总结的这些建议，单看确实有用，但全部学会它们，你还是不知道如何写。弗朗西斯-诺尔·托马斯和马克·特纳在《古典风格》这本书中，采取了完全不同的方法……给出足够普适的建议，任何人无论写什么，都会从中受益。”
 ——《Writers' Journal》 克里斯托弗·奥托（Christopher Ott）。
 
 "Every once in a while a book comes along with the power to alter permanently the view of a subject you thought you knew well. For me this year, that book is Clear and Simple as the Truth: Writing Classic Prose." 
