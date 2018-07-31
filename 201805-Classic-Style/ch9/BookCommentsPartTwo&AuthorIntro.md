@@ -19,7 +19,7 @@
 "Clear and Simple as the Truth is a work of great intellectual elegance and power. I have read it with a lot of pleasure, admiring the wisdom and economy of its reflections and the extraordinary range of its citations. Thomas and Turner have made a powerful case for civilized and intelligent discourse, and have done it without hectoring or polemical reductiveness." 
 — Claude Rawson, Yale University
 
-“《古典风格》是一件集才智、优雅与力量的伟大作品。这本书读来心旷神怡，它的真知灼见与旁征博引，令人敬佩。托马斯和特纳为聪慧得体的语言表达给出了充分的理由，而不是仅仅依靠虚张声势或据理力争达到说服的目的。”
+“《古典风格》是一件集才智、优雅与力量的伟大作品。这本书读来心旷神怡，它的真知灼见与旁征博引，令人敬佩。托马斯和特纳认为语言要敏捷得体，他们用充分的事实案例阐释了这点，而非以威吓或争辩的口吻强行说服。”
 ——耶鲁大学 克劳德·罗森（Claude Rawson）
 
 "Clear and Simple as the Truth holds the promise of raising the level of the nation's prose. Thomas and Turner will have the literate nonacademic reader on their side from the outset and will win over most of the others through the sheer force of their passage-by-passage analysis. The book is full of cogency and insight." 
@@ -31,7 +31,7 @@
 "The best-known book about writing, Strunk & White's The Elements of Style, offers an elaborate list of do's and don'ts. Individually, these capsules of advice can be useful, but learn them all and you still won't know how to write. Francis-Noël Thomas and Mark Turner have taken an entirely different approach in Clear and Simple. . . . [I]t is filled with enough general advice to benefit anyone who writes anything." 
 — Christopher Ott, Writers' Journal.
 
-“斯特伦克和怀特的《风格要素》是流传最广的写作指南，书中详尽地罗列了应做事项及不该做事项。总结的这些建议，单看确实有用，但全部学会它们，你还是不知道如何写。弗朗西斯-诺尔·托马斯和马克·特纳在《古典风格》这本书中，采取了完全不同的方法……给出足够普适的建议，任何人无论写什么，都会从中受益。”
+“斯特伦克和怀特的《风格要素》是流传最广的写作指南，书中详尽地罗列了应做事项及不该做事项。这些建议清单，单看确实有用，但全部学会它们，你还是不知道如何写。弗朗西斯-诺尔·托马斯和马克·特纳在《古典风格》这本书中，采取了完全不同的方法……这本书给出了很多相当普遍的建议，任何人无论写什么，都会从中受益。”
 ——《Writers' Journal》 克里斯托弗·奥托（Christopher Ott）。
 
 "Every once in a while a book comes along with the power to alter permanently the view of a subject you thought you knew well. For me this year, that book is Clear and Simple as the Truth: Writing Classic Prose." 

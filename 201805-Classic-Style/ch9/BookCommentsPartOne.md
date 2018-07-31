@@ -63,7 +63,7 @@ Traditional writing instruction tacitly assumes that writing is a normal human a
 "This marvelous little book avoids the inevitable arguments that arise from even the best How To and How Not To books. It does this by describing some fundamental questions that they identify as the elements of style and by illustrating the way that classic style can be defined by a particular set of answers to those questions. Stimulating, fresh, invigorating. I recommend it highly."
 — Michael Gordon-Smith.
 
-“这本非凡的小书避开了不可避免的争论——甚至最好的指导手册也会引发的争论。它是这样做的：首先他们提出一些基本问题, 作为风格的基本要素；然后通过举例证明，对这些问题系列特定的回答，定义了古典风格。振奋人心、新颖有趣、神清气爽。我极力推荐。”
+“这本非凡的小书没有陷入不可避免的争论——甚至最好的指导书也未能幸免。这本书先描述出一些基本问题，定义为风格要素； 然后举例说明，这些问题对应的一组回答如何确立了古典风格。读来振奋、新颖、爽快，我极力推荐。”
 ———迈克尔·戈登·史密斯（Michael Gordon-Smith）
 
 "Clear and Simple is not just an almost peerless manual of style. Like George Orwell's 'Politics and the English Language' and Herbert Read's English Prose Style, it uncovers the intricate relationship between literary expression, mental power, ideological bent, and personal character. It does this by close analysis of brilliantly chosen texts in several languages. Since it is itself an exhibit of classic style, it is a delight to read and reread." 
